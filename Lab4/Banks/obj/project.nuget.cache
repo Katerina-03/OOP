@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2ysDT6UWN/ehuvpEB5o5Wzi0uckVwB6TAOcbXgZCh0qv989p9uzmpR4rTMhM2HoLy2qqAisQiOu0ywnhNQ6ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\RiderProjects\\Katerina-03\\Lab4\\Banks\\Banks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
